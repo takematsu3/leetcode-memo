@@ -1,5 +1,8 @@
 package main
 
+import "fmt"
+
 func main() {
-	PartitionString("abacbbabxvb")
+	//PartitionString("abacbbabxvb")
+	fmt.Println(IsValidParentheses("()"))
 }
