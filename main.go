@@ -1,8 +1,7 @@
 package main
 
-import "fmt"
-
 func main() {
 	//PartitionString("abacbbabxvb")
-	fmt.Println(IsValidParentheses("()"))
+	//fmt.Println(IsValidParentheses("()"))
+	MaxProfit([]int{7, 1, 5, 3, 6, 4})
 }
